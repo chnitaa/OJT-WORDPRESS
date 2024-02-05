@@ -1,0 +1,2 @@
+2024-01-24T09:24:56+00:00 CRITICAL Out of memory (allocated 94371840) (tried to allocate 32768 bytes) in C:\xampp\htdocs\profilweb\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-webhooks-controller.php on line 1
+
